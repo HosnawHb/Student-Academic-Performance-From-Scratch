@@ -55,6 +55,10 @@ Let's dive deeper into each phase: </br>
    - After completing the training phase, we evaluate the performance of the trained model.
    - We calculate the accuracy and loss of the model on the evaluation data.
 
+In order to better understand the issue, the following figure is presented as an example, which has two layers (input layer and output layer), a threshold and two inputs (x1 and x2) and the output predicted by the network (A). Also, the sigmoid activation function is used for the output layer. </br>
+
+<div align="center"><img src="https://github.com/HosnawHb/Student-Academic-Performance-From-Scratch/blob/main/NN.png?raw=true"width="60%"/></div> </br >
+
 ### Formulas:
   - $$𝑍=𝑊^𝑇 𝑋+𝑏$$
   $$𝐴=𝑠𝑖𝑔𝑚𝑜𝑖𝑑(𝑍)$$
@@ -63,6 +67,8 @@ Let's dive deeper into each phase: </br>
   $$\frac{𝜕𝐸}{𝜕b}=\frac{1}{n} \sum_{i=1}^n (𝑎_𝑖−𝑦_𝑖)$$
   $$𝑊=𝑊−𝛼\frac{𝜕𝐸}{𝜕𝑊}$$
   $$𝑏=𝑏−𝛼\frac{𝜕𝐸}{𝜕b}$$
+
+
 
 
 
