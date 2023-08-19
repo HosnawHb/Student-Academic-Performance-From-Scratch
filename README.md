@@ -70,6 +70,10 @@ In order to better understand the issue, the following figure is presented as an
   $$𝑏=𝑏−𝛼\frac{𝜕𝐸}{𝜕b}$$
 
 
+## Team Members
+[Hosna Habibi](https://github.com/HosnawHb) </br>
+[Pooya Kavosh](https://github.com/Jarvis017) </br>
+
 Please refer to the code in the repository for a step-by-step guide on implementing the neural network, training the model, and evaluating its performance.
 
 
