@@ -3,7 +3,8 @@
 👋 Welcome to my GitHub project!
 
 ## Purpose
-- The purpose of this project was to use the structure of neural network from scratch (Neural Networks from Scratch) in order to predict the acceptance or rejection of students according to a set of their characteristics during an academic semester, which then was also done using tensorflow.
+- The purpose of this project was to use the structure of neural network from scratch (Neural Networks from Scratch) in order to predict the acceptance or rejection of students according to a set of their characteristics during an academic semester, which then was also done using tensorflow.</br >
+More details about the dataset can be obesreved through [Student's Academic Performance](https://www.kaggle.com/datasets/aljarah/xAPI-Edu-Data).
 
 ## Description
 Here's a summary of the general process involved in this project: </br>
